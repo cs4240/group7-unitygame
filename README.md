@@ -14,7 +14,7 @@ Roles: (Pick one)
   - Highlight on the elements when it is raycasted(pointed)
 2) UI of the popups after clicking on an element
   -
-3) Visualization of the atom
+3) Visualization of the atom (Wei Wen)
   -
 4) Research on all of the elements on the periodic table
   - 
