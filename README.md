@@ -12,7 +12,7 @@ Using Unity 2018.3.8f1
 Roles: (Pick one)
 1) Develop an interactive periodic table that each element is clickable (with the VR controller)
   - Highlight on the elements when it is raycasted(pointed)
-2) UI of the popups after clicking on an element
+2) UI of the popups after clicking on an element(Stephen)
   -
 3) Visualization of the atom (Wei Wen)
   -
