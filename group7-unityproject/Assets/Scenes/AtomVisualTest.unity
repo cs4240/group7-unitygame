@@ -384,11 +384,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1873150128}
     m_Modifications:
-    - target: {fileID: 6816925701163208181, guid: 00cf89d4c86170b4194688b76f4c2bd6,
-        type: 3}
-      propertyPath: m_Name
-      value: Electron
-      objectReference: {fileID: 0}
     - target: {fileID: 1670969306682158972, guid: 00cf89d4c86170b4194688b76f4c2bd6,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -444,6 +439,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6816925701163208181, guid: 00cf89d4c86170b4194688b76f4c2bd6,
+        type: 3}
+      propertyPath: m_Name
+      value: Electron
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00cf89d4c86170b4194688b76f4c2bd6, type: 3}
 --- !u!1 &3821175441070105588
@@ -482,11 +482,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1873150128}
     m_Modifications:
-    - target: {fileID: 3821175441070105588, guid: a321b6fdddc790a4f8397d738e9e6e80,
-        type: 3}
-      propertyPath: m_Name
-      value: Proton
-      objectReference: {fileID: 0}
     - target: {fileID: 1721132738694186658, guid: a321b6fdddc790a4f8397d738e9e6e80,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -541,6 +536,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3821175441070105588, guid: a321b6fdddc790a4f8397d738e9e6e80,
+        type: 3}
+      propertyPath: m_Name
+      value: Proton
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a321b6fdddc790a4f8397d738e9e6e80, type: 3}
