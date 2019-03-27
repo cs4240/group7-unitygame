@@ -628,6 +628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   atomBase: {fileID: 1873150127}
   speed: 500
+  distanceFromCenter: 1
 --- !u!199 &6816925701163208183
 ParticleSystemRenderer:
   serializedVersion: 6
