@@ -13,7 +13,10 @@ Roles: (Pick one) [Remember to add ideas and what is added for each roles]
 1) Develop an interactive periodic table that each element is clickable (with the VR controller)
   - Highlight on the elements when it is raycasted(pointed)
 2) UI of the popups after clicking on an element(Stephen)
-  -
+  - The number of proton, neutron
+  - The symbol
+  - The full name
+  - The sp hybridization
 3) Visualization of the atom (Wei Wen)
   - 2 Forms, atom form and sorted form(Electron, proton and neutron is seperated)
   - Atom form
