@@ -107,7 +107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   atomBase: {fileID: 0}
-  speed: 500
+  speed: 300
   distanceFromCenter: 1
 --- !u!198 &3433456335710261809
 ParticleSystem:

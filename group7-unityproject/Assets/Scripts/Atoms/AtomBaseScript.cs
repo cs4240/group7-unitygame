@@ -14,6 +14,6 @@ public class AtomBaseScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(new Vector3(rotateSpeed * Time.deltaTime, 0, 0));
+        transform.Rotate(new Vector3(rotateSpeed * Time.deltaTime, 0.75f * rotateSpeed * Time.deltaTime, 0.5f * rotateSpeed * Time.deltaTime));
     }
 }
