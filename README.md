@@ -10,8 +10,10 @@ Ideas:
 Using Unity 2018.3.8f1
 
 Roles: (Pick one) [Remember to add ideas and what is added for each roles]
-1) Develop an interactive periodic table that each element is clickable (with the VR controller)
+1) Develop an interactive periodic table that each element is clickable (with the VR controller) (Dylan)
   - Highlight on the elements when it is raycasted(pointed)
+  - Background (Think we should have it in a room, so users wont have the impression that you can roam around freely like in the open world)
+  
 2) UI of the popups after clicking on an element(Stephen)
   - The number of proton, neutron
   - The symbol
@@ -21,7 +23,7 @@ Roles: (Pick one) [Remember to add ideas and what is added for each roles]
   - 2 Forms, atom form and sorted form(Electron, proton and neutron is seperated)
   - Atom form
     - Electron will orbit around the nuclears(Center point)
-4) Research on all of the elements on the periodic table
+4) Research on all of the elements on the periodic table (Ian)
   - Numbers of electron, protons & neutrons (Idea)
   - Details of each element (Idea)
 When you are done with your stuffs, help the others, some might be easier to finish than the others.
