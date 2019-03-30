@@ -23,6 +23,7 @@ Roles: (Pick one) [Remember to add ideas and what is added for each roles]
   - 2 Forms, atom form and sorted form(Electron, proton and neutron is seperated)
   - Atom form
     - Electron will orbit around the nuclears(Center point)
+    - The Nucleus will spin to show the other Protons/Neutrons (Will change depending on feedback)
 4) Research on all of the elements on the periodic table (Ian)
   - Numbers of electron, protons & neutrons (Idea)
   - Details of each element (Idea)
